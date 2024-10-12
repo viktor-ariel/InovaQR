@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "next": "^14.2.15",
+    "qrcode": "^1.5.4",
+    "qrcode.react": "^4.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-qr-code": "^2.0.15"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
