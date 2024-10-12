@@ -5,7 +5,7 @@
 ## :notebook_with_decorative_cover: Menu
 
 ## :camera: Screenshots
-<div align="center"> <a href=""><img src="screenshot.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="img.png" alt='image' width='800'/></a> </div>
 
 ## :dart: Funcionalidades
 Geração de QR Codes para URLs.
